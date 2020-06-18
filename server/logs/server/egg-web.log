@@ -724,3 +724,21 @@
 2020-06-17 20:57:06,129 INFO 38228 [egg-mongoose] instance[0] start successfully
 2020-06-17 20:57:06,154 INFO 38228 [egg-watcher:application] watcher start success
 2020-06-17 20:57:06,242 INFO 38228 [egg:core] dump config after ready, 55ms
+2020-06-18 08:45:02,418 INFO 17508 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-18 08:45:02,530 INFO 17508 [egg-multipart] stream mode enable
+2020-06-18 08:45:04,696 INFO 17508 [egg-mongoose] connecting mongodb://127.0.0.1/shoppingMall
+2020-06-18 08:45:06,314 INFO 17508 [egg-static] starting static serve /public/ -> C:\Users\lenovo\Desktop\shopping-mall\server\app\public
+2020-06-18 08:45:06,326 INFO 17508 [egg-security] use methodnoallow middleware
+2020-06-18 08:45:06,329 INFO 17508 [egg-security] use noopen middleware
+2020-06-18 08:45:06,337 INFO 17508 [egg-security] use nosniff middleware
+2020-06-18 08:45:06,339 INFO 17508 [egg-security] use xssProtection middleware
+2020-06-18 08:45:06,342 INFO 17508 [egg-security] use xframe middleware
+2020-06-18 08:45:06,345 INFO 17508 [egg-security] use dta middleware
+2020-06-18 08:45:06,345 INFO 17508 [egg-security] compose 6 middlewares into one security middleware
+2020-06-18 08:45:06,439 INFO 17508 [egg:core] dump config after load, 19ms
+2020-06-18 08:45:06,453 INFO 17508 [egg-mongoose] starting...
+2020-06-18 08:45:06,657 INFO 17508 [egg-mongoose] mongodb://127.0.0.1/shoppingMall connected successfully
+2020-06-18 08:45:06,681 INFO 17508 [egg-mongoose] instance[0] start successfully
+2020-06-18 08:45:06,687 INFO 17508 [egg-watcher:application] watcher start success
+2020-06-18 08:45:06,734 INFO 17508 [egg:core] dump config after ready, 27ms
+2020-06-18 12:14:37,751 WARN 17508 [ClusterClient:Watcher] follower closed, and try to init it again

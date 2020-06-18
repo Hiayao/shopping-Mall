@@ -1831,3 +1831,20 @@ name: "MongoError"
 pid: 9412
 hostname: STU008
 
+2020-06-18 08:35:09,129 ERROR 1708 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 1708
+hostname: �л�ҫ
+
+2020-06-18 12:14:37,615 ERROR 25696 nodejs.ClusterClientNoResponseError: client no response in 566497ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 25696
+hostname: �л�ҫ
+

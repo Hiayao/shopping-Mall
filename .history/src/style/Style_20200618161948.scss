@@ -1,0 +1,10 @@
+.login_All{
+    .van-field__error-message {
+        position: absolute !important;
+        left: 80px !important;
+        top: 0px !important;
+    }
+    .van-field__control::placeholder {
+        color: red !important;
+    }
+}
