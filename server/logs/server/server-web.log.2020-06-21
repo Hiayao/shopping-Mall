@@ -1,0 +1,476 @@
+2020-06-21 00:18:21,367 ERROR 45580 [-/127.0.0.1/-/93ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 00:18:41,523 ERROR 45580 [-/127.0.0.1/-/17ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 00:18:41,538 ERROR 45580 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 00:18:41,891 ERROR 45580 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 00:18:42,018 ERROR 45580 [-/127.0.0.1/-/114ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 00:18:42,036 ERROR 45580 [-/127.0.0.1/-/11ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 00:19:15,301 ERROR 45580 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 00:19:20,870 ERROR 45580 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 00:20:43,755 ERROR 45580 [-/127.0.0.1/-/40ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 00:21:53,801 ERROR 45580 [-/127.0.0.1/-/66ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 00:27:14,939 ERROR 45580 [-/127.0.0.1/-/92ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'id' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'id' }\""
+kind: "string"
+value: {"id":"id"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 00:27:44,303 ERROR 45580 [-/127.0.0.1/-/23ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 00:38:06,171 ERROR 45580 [-/127.0.0.1/-/76ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'http://localhost:7001/v1/classification' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'http://localhost:7001/v1/classification' }\""
+kind: "string"
+value: {"id":"http://localhost:7001/v1/classification"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 00:38:36,132 ERROR 45580 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 00:38:45,188 ERROR 45580 [-/127.0.0.1/-/5ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 00:46:12,703 ERROR 45580 [-/127.0.0.1/-/60ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }\""
+kind: "string"
+value: {"id":{"id":"2c9f6c946016ea9b016016f79c8e0000"}}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 00:49:38,871 ERROR 45580 [-/127.0.0.1/-/77ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }\""
+kind: "string"
+value: {"id":{"id":"2c9f6c946016ea9b016016f79c8e0000"}}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 00:59:57,479 ERROR 45580 [-/127.0.0.1/-/83ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 01:01:22,274 ERROR 45580 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 01:01:26,581 ERROR 45580 [-/127.0.0.1/-/4ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 01:01:46,107 ERROR 45580 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 01:01:50,544 ERROR 45580 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 01:02:02,172 ERROR 45580 [-/127.0.0.1/-/8ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 01:02:23,642 ERROR 45580 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 11:27:03,487 ERROR 45580 [-/127.0.0.1/-/280ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 11:32:25,254 ERROR 45580 [-/127.0.0.1/-/33ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 11:33:41,418 ERROR 45580 [-/127.0.0.1/-/64ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 11:45:22,783 ERROR 45580 [-/127.0.0.1/-/114ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 11:46:28,933 ERROR 45580 [-/127.0.0.1/-/99ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 11:47:04,251 ERROR 45580 [-/127.0.0.1/-/5ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 11:47:33,982 ERROR 45580 [-/127.0.0.1/-/6ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 11:48:05,517 ERROR 45580 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 11:48:24,973 ERROR 45580 [-/127.0.0.1/-/6ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 11:49:44,735 ERROR 45580 [-/127.0.0.1/-/75ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'mallSubId' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'mallSubId' }\""
+kind: "string"
+value: {"id":"mallSubId"}
+path: "cid"
+reason: null
+pid: 45580
+hostname: �л�ҫ
+

@@ -1,0 +1,19 @@
+2020-06-21 00:00:00,076 INFO 45580 [egg-logrotator] app logger reload: got log-reload message
+2020-06-21 04:02:41,050 WARN 45580 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-21 11:24:41,483 WARN 45580 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-06-21 11:24:44,795 WARN 45580 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-21 11:24:49,728 INFO 45580 [-/127.0.0.1/-/105ms SCHEDULE /__schedule?path=C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "C:\\Users\\lenovo\\AppData\\Local\\Temp\\egg-multipart-tmp\\server"
+2020-06-21 11:24:49,948 INFO 45580 [-/127.0.0.1/-/332ms SCHEDULE /__schedule?path=C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2020-06-21 21:05:46,604 WARN 45580 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-21 21:51:03,585 WARN 45580 nodejs.ResponseTimeoutError: register to channel: Watcher failed, will retry after 3s, Server no response in 60000ms, address#127.0.0.1:54647
+    at Timeout._onTimeout (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_tcp-base@3.1.0@tcp-base\lib\base.js:225:21)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+socketMeta: {"id":3720,"dataLength":75,"bufferSize1":0,"bufferSize2":0,"startTime":1592744762919,"endTime":1592744762921,"writeSuccess":true}
+name: "ResponseTimeoutError"
+pid: 45580
+hostname: �л�ҫ
+
+2020-06-21 23:59:59,394 INFO 45580 [egg-logrotator] clean all log before 31 days
+2020-06-22 00:00:00,009 INFO 45580 [egg-logrotator] broadcast log-reload
+2020-06-22 00:00:00,011 INFO 45580 [egg-logrotator] rotate files success by DayRotator, files ["C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server\\common-error.log -> C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server\\common-error.log.2020-06-21","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server\\server-web.log -> C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server\\server-web.log.2020-06-21","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server\\egg-web.log -> C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server\\egg-web.log.2020-06-21","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server\\egg-schedule.log -> C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server\\egg-schedule.log.2020-06-21","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server\\egg-agent.log -> C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server\\egg-agent.log.2020-06-21"]

@@ -1,0 +1,27 @@
+.login_All {
+    .van-field__error-message {
+        position: absolute !important;
+        left: 80px !important;
+        top: 0px !important;
+    }
+
+    .van-field__control::placeholder {
+        color: rgb(156, 154, 154) !important;
+    }
+}
+
+.sort_all {
+    .van-tabs__wrap {
+        height: 16vw !important;
+    }
+}
+
+.city_check{
+    .van-index-anchor{
+        background:rgb(242,242,242) !important;
+  },
+  .van-index-bar__index{
+    font-size: 3.7vw;
+  line-height: 6vw;
+}
+}

@@ -1,0 +1,25 @@
+2020-06-21 00:00:00,074 INFO 54736 [egg-logrotator] agent logger reload: got log-reload message
+2020-06-21 04:02:44,588 ERROR 54736 nodejs.ClusterClientNoResponseError: client no response in 10798878ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 54736
+hostname: �л�ҫ
+
+2020-06-21 11:24:48,822 ERROR 54736 nodejs.ClusterClientNoResponseError: client no response in 26516306ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 54736
+hostname: �л�ҫ
+
+2020-06-21 21:52:25,674 ERROR 54736 nodejs.ClusterClientNoResponseError: client no response in 10815192ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 54736
+hostname: �л�ҫ
+
