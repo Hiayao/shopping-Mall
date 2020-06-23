@@ -1,0 +1,52 @@
+<template>
+<!-- 商品详情页 -->
+ <div>
+   <div>
+     <van-swipe :autoplay="3000">
+  <van-swipe-item v-for="(image, index) in goodsOne" :key="index">
+    <img v-lazy="image" />
+  </van-swipe-item>
+</van-swipe>
+   </div>
+ </div>
+</template>
+
+<script>
+ export default {
+   name: '',
+   props: {
+   },
+   components: {
+
+   },
+   data () {
+     return {
+        goodsId:{},
+        goodsOne:[]
+     }
+   },
+   methods: {
+
+   },
+   mounted() {
+       this.goodsId = this.$route.query.id
+       console.log(this.goodsId)
+       this.$api.goodsone(this.goodsId).then(res => {
+         this.goodsOne = res.goods.goodsOne
+           console.log(this.goodsOne)
+       }).catch(err => {
+           console.log(err)
+       })   
+   },
+   watch: {
+
+   },
+   computed: {
+
+   }
+ }
+</script>
+
+<style scoped lang='scss'>
+
+</style>
