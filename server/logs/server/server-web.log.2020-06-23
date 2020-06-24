@@ -1,0 +1,28 @@
+2020-06-23 22:30:53,147 ERROR 29272 [-/127.0.0.1/-/112ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }\""
+kind: "string"
+value: {"id":{"id":"2c9f6c946016ea9b016016f79c8e0000"}}
+path: "cid"
+reason: null
+pid: 29272
+hostname: �л�ҫ
+
+2020-06-23 22:31:25,180 ERROR 29272 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }\""
+kind: "string"
+value: {"id":{"id":"2c9f6c946016ea9b016016f79c8e0000"}}
+path: "cid"
+reason: null
+pid: 29272
+hostname: �л�ҫ
+

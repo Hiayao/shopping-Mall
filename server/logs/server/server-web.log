@@ -1,0 +1,1265 @@
+2020-06-24 08:45:23,203 ERROR 35064 [-/127.0.0.1/-/182ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }\""
+kind: "string"
+value: {"id":{"id":"2c9f6c946016ea9b016016f79c8e0000"}}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 08:50:27,157 ERROR 35064 [-/127.0.0.1/-/6ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }\""
+kind: "string"
+value: {"id":{"id":"2c9f6c946016ea9b016016f79c8e0000"}}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 08:52:01,908 ERROR 35064 [-/127.0.0.1/-/19ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }\""
+kind: "string"
+value: {"id":{"id":"2c9f6c946016ea9b016016f79c8e0000"}}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 08:52:30,815 ERROR 35064 [-/127.0.0.1/-/10ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }\""
+kind: "string"
+value: {"id":{"id":"2c9f6c946016ea9b016016f79c8e0000"}}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 08:52:37,653 ERROR 35064 [-/127.0.0.1/-/14ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }\""
+kind: "string"
+value: {"id":{"id":"2c9f6c946016ea9b016016f79c8e0000"}}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 08:52:52,794 ERROR 35064 [-/127.0.0.1/-/8ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }\""
+kind: "string"
+value: {"id":{"id":"2c9f6c946016ea9b016016f79c8e0000"}}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 09:21:46,651 ERROR 35064 [-/127.0.0.1/-/75ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }\""
+kind: "string"
+value: {"id":{"id":"2c9f6c946016ea9b016016f79c8e0000"}}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 09:22:16,013 ERROR 35064 [-/127.0.0.1/-/13ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }\""
+kind: "string"
+value: {"id":{"id":"2c9f6c946016ea9b016016f79c8e0000"}}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 09:23:05,570 ERROR 35064 [-/127.0.0.1/-/38ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }\""
+kind: "string"
+value: {"id":{"id":"2c9f6c946016ea9b016016f79c8e0000"}}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 09:25:45,659 ERROR 35064 [-/127.0.0.1/-/11ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }\""
+kind: "string"
+value: {"id":{"id":"2c9f6c946016ea9b016016f79c8e0000"}}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 09:29:07,080 ERROR 35064 [-/127.0.0.1/-/11ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }\""
+kind: "string"
+value: {"id":{"id":"2c9f6c946016ea9b016016f79c8e0000"}}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 09:29:26,351 ERROR 35064 [-/127.0.0.1/-/19ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }\""
+kind: "string"
+value: {"id":{"id":"2c9f6c946016ea9b016016f79c8e0000"}}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 09:30:15,050 ERROR 35064 [-/127.0.0.1/-/9ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }\""
+kind: "string"
+value: {"id":{"id":"2c9f6c946016ea9b016016f79c8e0000"}}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 09:33:10,622 ERROR 35064 [-/127.0.0.1/-/16ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: { id: '2c9f6c946016ea9b016016f79c8e0000' } }\""
+kind: "string"
+value: {"id":{"id":"2c9f6c946016ea9b016016f79c8e0000"}}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 09:37:30,704 ERROR 35064 [-/127.0.0.1/-/7ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 09:40:11,090 ERROR 35064 [-/127.0.0.1/-/16ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 09:42:16,698 ERROR 35064 [-/127.0.0.1/-/7ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 09:42:47,239 ERROR 35064 [-/127.0.0.1/-/7ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 09:43:41,977 ERROR 35064 [-/127.0.0.1/-/7ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 35064
+hostname: �л�ҫ
+
+2020-06-24 11:20:08,231 ERROR 34080 [-/127.0.0.1/-/28ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 11:29:19,283 ERROR 34080 [-/127.0.0.1/-/332ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 11:32:55,114 ERROR 34080 [-/127.0.0.1/-/15ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 11:33:16,844 ERROR 34080 [-/127.0.0.1/-/14ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 11:34:58,551 ERROR 34080 [-/127.0.0.1/-/99ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 11:35:07,780 ERROR 34080 [-/127.0.0.1/-/9ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 11:36:25,726 ERROR 34080 [-/127.0.0.1/-/15ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 11:37:36,801 ERROR 34080 [-/127.0.0.1/-/9ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 11:39:22,094 ERROR 34080 [-/127.0.0.1/-/10ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 11:42:42,836 ERROR 34080 [-/127.0.0.1/-/23ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 11:43:54,081 ERROR 34080 [-/127.0.0.1/-/7ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 11:44:38,561 ERROR 34080 [-/127.0.0.1/-/6ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 11:45:47,257 ERROR 34080 [-/127.0.0.1/-/7ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 11:47:38,956 ERROR 34080 [-/127.0.0.1/-/5ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 11:48:51,803 ERROR 34080 [-/127.0.0.1/-/64ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 11:50:48,791 ERROR 34080 [-/127.0.0.1/-/12ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 11:58:51,249 ERROR 34080 [-/127.0.0.1/-/106ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 11:59:19,724 ERROR 34080 [-/127.0.0.1/-/9ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 12:06:54,656 ERROR 34080 [-/127.0.0.1/-/47ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 13:49:05,284 ERROR 34080 [-/127.0.0.1/-/19ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 13:57:48,780 ERROR 34080 [-/127.0.0.1/-/220ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:08:42,117 ERROR 34080 [-/127.0.0.1/-/97ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '' }\""
+kind: "string"
+value: {"id":""}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:08:53,780 ERROR 34080 [-/127.0.0.1/-/9ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '' }\""
+kind: "string"
+value: {"id":""}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:09:06,936 ERROR 34080 [-/127.0.0.1/-/61ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '' }\""
+kind: "string"
+value: {"id":""}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:18:23,189 ERROR 34080 [-/127.0.0.1/-/189ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  id: [
+    '2c9f6c946016ea9b016016f79c8e0000',
+    '2c9f6c94608ff843016095163b8c0177',
+    '402880e86016d1b5016016db9b290001',
+    '402880e86016d1b5016016dbff2f0002',
+    '2c9f6c9460337d540160337fefd60000',
+    '402880e86016d1b5016016e083f10010',
+    '402880e86016d1b5016016df1f92000c',
+    '2c9f6c94621970a801626a40feac0178',
+    '2c9f6c94621970a801626a412c240179',
+    '402880e86016d1b5016016e135440011',
+    '402880e86016d1b5016016e171cc0012',
+    '402880e86016d1b5016016e240e60013',
+    '2c9f6c9460a03c0c0160a041ab1d0000',
+    '2c9f6c94609a62be0160a02d1dc20021',
+    '402880e86016d1b5016016e4dca2001e',
+    '402880e86016d1b5016016e51380001f',
+    '2c9f6c94609a62be0160a02de70e0022',
+    '2c9f6c94626a435f01626a4a7f590000',
+    '402880e86016d1b5016016e4ac16001d',
+    '402880e86016d1b5016016e549710020',
+    '402880e86016d1b5016016e656c50022',
+    '2c9f6c946016f86f01601709335d0000',
+    '2c9f6c946077476a0160781eb392000d',
+    '402880e86016d1b5016016e62bbd0021',
+    '2c9f6c946077476a0160781f6d8c000e',
+    '2c9f6c94621970a801626a35cb4d0175',
+    '2c9f6c94621970a801626a363e5a0176',
+    '2c9f6c94621970a801626a3770620177'
+  ]
+}" at path "cid" for model "ShopList"
+  id: [
+    '2c9f6c946016ea9b016016f79c8e0000',
+    '2c9f6c94608ff843016095163b8c0177',
+    '402880e86016d1b5016016db9b290001',
+    '402880e86016d1b5016016dbff2f0002',
+    '2c9f6c9460337d540160337fefd60000',
+    '402880e86016d1b5016016e083f10010',
+    '402880e86016d1b5016016df1f92000c',
+    '2c9f6c94621970a801626a40feac0178',
+    '2c9f6c94621970a801626a412c240179',
+    '402880e86016d1b5016016e135440011',
+    '402880e86016d1b5016016e171cc0012',
+    '402880e86016d1b5016016e240e60013',
+    '2c9f6c9460a03c0c0160a041ab1d0000',
+    '2c9f6c94609a62be0160a02d1dc20021',
+    '402880e86016d1b5016016e4dca2001e',
+    '402880e86016d1b5016016e51380001f',
+    '2c9f6c94609a62be0160a02de70e0022',
+    '2c9f6c94626a435f01626a4a7f590000',
+    '402880e86016d1b5016016e4ac16001d',
+    '402880e86016d1b5016016e549710020',
+    '402880e86016d1b5016016e656c50022',
+    '2c9f6c946016f86f01601709335d0000',
+    '2c9f6c946077476a0160781eb392000d',
+    '402880e86016d1b5016016e62bbd0021',
+    '2c9f6c946077476a0160781f6d8c000e',
+    '2c9f6c94621970a801626a35cb4d0175',
+    '2c9f6c94621970a801626a363e5a0176',
+    '2c9f6c94621970a801626a3770620177'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  id: [\n    '2c9f6c946016ea9b016016f79c8e0000',\n    '2c9f6c94608ff843016095163b8c0177',\n    '402880e86016d1b5016016db9b290001',\n    '402880e86016d1b5016016dbff2f0002',\n    '2c9f6c9460337d540160337fefd60000',\n    '402880e86016d1b5016016e083f10010',\n    '402880e86016d1b5016016df1f92000c',\n    '2c9f6c94621970a801626a40feac0178',\n    '2c9f6c94621970a801626a412c240179',\n    '402880e86016d1b5016016e135440011',\n    '402880e86016d1b5016016e171cc0012',\n    '402880e86016d1b5016016e240e60013',\n    '2c9f6c9460a03c0c0160a041ab1d0000',\n    '2c9f6c94609a62be0160a02d1dc20021',\n    '402880e86016d1b5016016e4dca2001e',\n    '402880e86016d1b5016016e51380001f',\n    '2c9f6c94609a62be0160a02de70e0022',\n    '2c9f6c94626a435f01626a4a7f590000',\n    '402880e86016d1b5016016e4ac16001d',\n    '402880e86016d1b5016016e549710020',\n    '402880e86016d1b5016016e656c50022',\n    '2c9f6c946016f86f01601709335d0000',\n    '2c9f6c946077476a0160781eb392000d',\n    '402880e86016d1b5016016e62bbd0021',\n    '2c9f6c946077476a0160781f6d8c000e',\n    '2c9f6c94621970a801626a35cb4d0175',\n    '2c9f6c94621970a801626a363e5a0176',\n    '2c9f6c94621970a801626a3770620177'\n  ]\n}\""
+kind: "string"
+value: {"id":["2c9f6c946016ea9b016016f79c8e0000","2c9f6c94608ff843016095163b8c0177","402880e86016d1b5016016db9b290001","402880e86016d1b5016016dbff2f0002","2c9f6c9460337d540160337fefd60000","402880e86016d1b5016016e083f10010","402880e86016d1b5016016df1f92000c","2c9f6c94621970a801626a40feac0178","2c9f6c94621970a801626a412c240179","402880e86016d1b5016016e135440011","402880e86016d1b5016016e171cc0012","402880e86016d1b5016016e240e60013","2c9f6c9460a03c0c0160a041ab1d0000","2c9f6c94609a62be0160a02d1dc20021","402880e86016d1b5016016e4dca2001e","402880e86016d1b5016016e51380001f","2c9f6c94609a62be0160a02de70e0022","2c9f6c94626a435f01626a4a7f590000","402880e86016d1b5016016e4ac16001d","402880e86016d1b5016016e549710020","402880e86016d1b5016016e656c50022","2c9f6c946016f86f01601709335d0000","2c9f6c946077476a0160781eb392000d","402880e86016d1b5016016e62bbd0021","2c9f6c946077476a0160781f6d8c000e","2c9f6c94621970a801626a35cb4d0175","2c9f6c94621970a801626a363e5a0176","2c9f6c94621970a801626a3770620177"]}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:18:46,328 ERROR 34080 [-/127.0.0.1/-/22ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  id: [
+    '2c9f6c946016ea9b016016f79c8e0000',
+    '2c9f6c94608ff843016095163b8c0177',
+    '402880e86016d1b5016016db9b290001',
+    '402880e86016d1b5016016dbff2f0002',
+    '2c9f6c9460337d540160337fefd60000',
+    '402880e86016d1b5016016e083f10010',
+    '402880e86016d1b5016016df1f92000c',
+    '2c9f6c94621970a801626a40feac0178',
+    '2c9f6c94621970a801626a412c240179',
+    '402880e86016d1b5016016e135440011',
+    '402880e86016d1b5016016e171cc0012',
+    '402880e86016d1b5016016e240e60013',
+    '2c9f6c9460a03c0c0160a041ab1d0000',
+    '2c9f6c94609a62be0160a02d1dc20021',
+    '402880e86016d1b5016016e4dca2001e',
+    '402880e86016d1b5016016e51380001f',
+    '2c9f6c94609a62be0160a02de70e0022',
+    '2c9f6c94626a435f01626a4a7f590000',
+    '402880e86016d1b5016016e4ac16001d',
+    '402880e86016d1b5016016e549710020',
+    '402880e86016d1b5016016e656c50022',
+    '2c9f6c946016f86f01601709335d0000',
+    '2c9f6c946077476a0160781eb392000d',
+    '402880e86016d1b5016016e62bbd0021',
+    '2c9f6c946077476a0160781f6d8c000e',
+    '2c9f6c94621970a801626a35cb4d0175',
+    '2c9f6c94621970a801626a363e5a0176',
+    '2c9f6c94621970a801626a3770620177'
+  ]
+}" at path "cid" for model "ShopList"
+  id: [
+    '2c9f6c946016ea9b016016f79c8e0000',
+    '2c9f6c94608ff843016095163b8c0177',
+    '402880e86016d1b5016016db9b290001',
+    '402880e86016d1b5016016dbff2f0002',
+    '2c9f6c9460337d540160337fefd60000',
+    '402880e86016d1b5016016e083f10010',
+    '402880e86016d1b5016016df1f92000c',
+    '2c9f6c94621970a801626a40feac0178',
+    '2c9f6c94621970a801626a412c240179',
+    '402880e86016d1b5016016e135440011',
+    '402880e86016d1b5016016e171cc0012',
+    '402880e86016d1b5016016e240e60013',
+    '2c9f6c9460a03c0c0160a041ab1d0000',
+    '2c9f6c94609a62be0160a02d1dc20021',
+    '402880e86016d1b5016016e4dca2001e',
+    '402880e86016d1b5016016e51380001f',
+    '2c9f6c94609a62be0160a02de70e0022',
+    '2c9f6c94626a435f01626a4a7f590000',
+    '402880e86016d1b5016016e4ac16001d',
+    '402880e86016d1b5016016e549710020',
+    '402880e86016d1b5016016e656c50022',
+    '2c9f6c946016f86f01601709335d0000',
+    '2c9f6c946077476a0160781eb392000d',
+    '402880e86016d1b5016016e62bbd0021',
+    '2c9f6c946077476a0160781f6d8c000e',
+    '2c9f6c94621970a801626a35cb4d0175',
+    '2c9f6c94621970a801626a363e5a0176',
+    '2c9f6c94621970a801626a3770620177'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  id: [\n    '2c9f6c946016ea9b016016f79c8e0000',\n    '2c9f6c94608ff843016095163b8c0177',\n    '402880e86016d1b5016016db9b290001',\n    '402880e86016d1b5016016dbff2f0002',\n    '2c9f6c9460337d540160337fefd60000',\n    '402880e86016d1b5016016e083f10010',\n    '402880e86016d1b5016016df1f92000c',\n    '2c9f6c94621970a801626a40feac0178',\n    '2c9f6c94621970a801626a412c240179',\n    '402880e86016d1b5016016e135440011',\n    '402880e86016d1b5016016e171cc0012',\n    '402880e86016d1b5016016e240e60013',\n    '2c9f6c9460a03c0c0160a041ab1d0000',\n    '2c9f6c94609a62be0160a02d1dc20021',\n    '402880e86016d1b5016016e4dca2001e',\n    '402880e86016d1b5016016e51380001f',\n    '2c9f6c94609a62be0160a02de70e0022',\n    '2c9f6c94626a435f01626a4a7f590000',\n    '402880e86016d1b5016016e4ac16001d',\n    '402880e86016d1b5016016e549710020',\n    '402880e86016d1b5016016e656c50022',\n    '2c9f6c946016f86f01601709335d0000',\n    '2c9f6c946077476a0160781eb392000d',\n    '402880e86016d1b5016016e62bbd0021',\n    '2c9f6c946077476a0160781f6d8c000e',\n    '2c9f6c94621970a801626a35cb4d0175',\n    '2c9f6c94621970a801626a363e5a0176',\n    '2c9f6c94621970a801626a3770620177'\n  ]\n}\""
+kind: "string"
+value: {"id":["2c9f6c946016ea9b016016f79c8e0000","2c9f6c94608ff843016095163b8c0177","402880e86016d1b5016016db9b290001","402880e86016d1b5016016dbff2f0002","2c9f6c9460337d540160337fefd60000","402880e86016d1b5016016e083f10010","402880e86016d1b5016016df1f92000c","2c9f6c94621970a801626a40feac0178","2c9f6c94621970a801626a412c240179","402880e86016d1b5016016e135440011","402880e86016d1b5016016e171cc0012","402880e86016d1b5016016e240e60013","2c9f6c9460a03c0c0160a041ab1d0000","2c9f6c94609a62be0160a02d1dc20021","402880e86016d1b5016016e4dca2001e","402880e86016d1b5016016e51380001f","2c9f6c94609a62be0160a02de70e0022","2c9f6c94626a435f01626a4a7f590000","402880e86016d1b5016016e4ac16001d","402880e86016d1b5016016e549710020","402880e86016d1b5016016e656c50022","2c9f6c946016f86f01601709335d0000","2c9f6c946077476a0160781eb392000d","402880e86016d1b5016016e62bbd0021","2c9f6c946077476a0160781f6d8c000e","2c9f6c94621970a801626a35cb4d0175","2c9f6c94621970a801626a363e5a0176","2c9f6c94621970a801626a3770620177"]}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:19:34,081 ERROR 34080 [-/127.0.0.1/-/12ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  id: [
+    '2c9f6c946016ea9b016016f79c8e0000',
+    '2c9f6c94608ff843016095163b8c0177',
+    '402880e86016d1b5016016db9b290001',
+    '402880e86016d1b5016016dbff2f0002',
+    '2c9f6c9460337d540160337fefd60000',
+    '402880e86016d1b5016016e083f10010',
+    '402880e86016d1b5016016df1f92000c',
+    '2c9f6c94621970a801626a40feac0178',
+    '2c9f6c94621970a801626a412c240179',
+    '402880e86016d1b5016016e135440011',
+    '402880e86016d1b5016016e171cc0012',
+    '402880e86016d1b5016016e240e60013',
+    '2c9f6c9460a03c0c0160a041ab1d0000',
+    '2c9f6c94609a62be0160a02d1dc20021',
+    '402880e86016d1b5016016e4dca2001e',
+    '402880e86016d1b5016016e51380001f',
+    '2c9f6c94609a62be0160a02de70e0022',
+    '2c9f6c94626a435f01626a4a7f590000',
+    '402880e86016d1b5016016e4ac16001d',
+    '402880e86016d1b5016016e549710020',
+    '402880e86016d1b5016016e656c50022',
+    '2c9f6c946016f86f01601709335d0000',
+    '2c9f6c946077476a0160781eb392000d',
+    '402880e86016d1b5016016e62bbd0021',
+    '2c9f6c946077476a0160781f6d8c000e',
+    '2c9f6c94621970a801626a35cb4d0175',
+    '2c9f6c94621970a801626a363e5a0176',
+    '2c9f6c94621970a801626a3770620177'
+  ]
+}" at path "cid" for model "ShopList"
+  id: [
+    '2c9f6c946016ea9b016016f79c8e0000',
+    '2c9f6c94608ff843016095163b8c0177',
+    '402880e86016d1b5016016db9b290001',
+    '402880e86016d1b5016016dbff2f0002',
+    '2c9f6c9460337d540160337fefd60000',
+    '402880e86016d1b5016016e083f10010',
+    '402880e86016d1b5016016df1f92000c',
+    '2c9f6c94621970a801626a40feac0178',
+    '2c9f6c94621970a801626a412c240179',
+    '402880e86016d1b5016016e135440011',
+    '402880e86016d1b5016016e171cc0012',
+    '402880e86016d1b5016016e240e60013',
+    '2c9f6c9460a03c0c0160a041ab1d0000',
+    '2c9f6c94609a62be0160a02d1dc20021',
+    '402880e86016d1b5016016e4dca2001e',
+    '402880e86016d1b5016016e51380001f',
+    '2c9f6c94609a62be0160a02de70e0022',
+    '2c9f6c94626a435f01626a4a7f590000',
+    '402880e86016d1b5016016e4ac16001d',
+    '402880e86016d1b5016016e549710020',
+    '402880e86016d1b5016016e656c50022',
+    '2c9f6c946016f86f01601709335d0000',
+    '2c9f6c946077476a0160781eb392000d',
+    '402880e86016d1b5016016e62bbd0021',
+    '2c9f6c946077476a0160781f6d8c000e',
+    '2c9f6c94621970a801626a35cb4d0175',
+    '2c9f6c94621970a801626a363e5a0176',
+    '2c9f6c94621970a801626a3770620177'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  id: [\n    '2c9f6c946016ea9b016016f79c8e0000',\n    '2c9f6c94608ff843016095163b8c0177',\n    '402880e86016d1b5016016db9b290001',\n    '402880e86016d1b5016016dbff2f0002',\n    '2c9f6c9460337d540160337fefd60000',\n    '402880e86016d1b5016016e083f10010',\n    '402880e86016d1b5016016df1f92000c',\n    '2c9f6c94621970a801626a40feac0178',\n    '2c9f6c94621970a801626a412c240179',\n    '402880e86016d1b5016016e135440011',\n    '402880e86016d1b5016016e171cc0012',\n    '402880e86016d1b5016016e240e60013',\n    '2c9f6c9460a03c0c0160a041ab1d0000',\n    '2c9f6c94609a62be0160a02d1dc20021',\n    '402880e86016d1b5016016e4dca2001e',\n    '402880e86016d1b5016016e51380001f',\n    '2c9f6c94609a62be0160a02de70e0022',\n    '2c9f6c94626a435f01626a4a7f590000',\n    '402880e86016d1b5016016e4ac16001d',\n    '402880e86016d1b5016016e549710020',\n    '402880e86016d1b5016016e656c50022',\n    '2c9f6c946016f86f01601709335d0000',\n    '2c9f6c946077476a0160781eb392000d',\n    '402880e86016d1b5016016e62bbd0021',\n    '2c9f6c946077476a0160781f6d8c000e',\n    '2c9f6c94621970a801626a35cb4d0175',\n    '2c9f6c94621970a801626a363e5a0176',\n    '2c9f6c94621970a801626a3770620177'\n  ]\n}\""
+kind: "string"
+value: {"id":["2c9f6c946016ea9b016016f79c8e0000","2c9f6c94608ff843016095163b8c0177","402880e86016d1b5016016db9b290001","402880e86016d1b5016016dbff2f0002","2c9f6c9460337d540160337fefd60000","402880e86016d1b5016016e083f10010","402880e86016d1b5016016df1f92000c","2c9f6c94621970a801626a40feac0178","2c9f6c94621970a801626a412c240179","402880e86016d1b5016016e135440011","402880e86016d1b5016016e171cc0012","402880e86016d1b5016016e240e60013","2c9f6c9460a03c0c0160a041ab1d0000","2c9f6c94609a62be0160a02d1dc20021","402880e86016d1b5016016e4dca2001e","402880e86016d1b5016016e51380001f","2c9f6c94609a62be0160a02de70e0022","2c9f6c94626a435f01626a4a7f590000","402880e86016d1b5016016e4ac16001d","402880e86016d1b5016016e549710020","402880e86016d1b5016016e656c50022","2c9f6c946016f86f01601709335d0000","2c9f6c946077476a0160781eb392000d","402880e86016d1b5016016e62bbd0021","2c9f6c946077476a0160781f6d8c000e","2c9f6c94621970a801626a35cb4d0175","2c9f6c94621970a801626a363e5a0176","2c9f6c94621970a801626a3770620177"]}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:29:06,969 ERROR 34080 [-/127.0.0.1/-/244ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  id: [
+    '2c9f6c946016ea9b016016f79c8e0000',
+    '2c9f6c94608ff843016095163b8c0177',
+    '402880e86016d1b5016016db9b290001',
+    '402880e86016d1b5016016dbff2f0002',
+    '2c9f6c9460337d540160337fefd60000',
+    '402880e86016d1b5016016e083f10010',
+    '402880e86016d1b5016016df1f92000c',
+    '2c9f6c94621970a801626a40feac0178',
+    '2c9f6c94621970a801626a412c240179',
+    '402880e86016d1b5016016e135440011',
+    '402880e86016d1b5016016e171cc0012',
+    '402880e86016d1b5016016e240e60013',
+    '2c9f6c9460a03c0c0160a041ab1d0000',
+    '2c9f6c94609a62be0160a02d1dc20021',
+    '402880e86016d1b5016016e4dca2001e',
+    '402880e86016d1b5016016e51380001f',
+    '2c9f6c94609a62be0160a02de70e0022',
+    '2c9f6c94626a435f01626a4a7f590000',
+    '402880e86016d1b5016016e4ac16001d',
+    '402880e86016d1b5016016e549710020',
+    '402880e86016d1b5016016e656c50022',
+    '2c9f6c946016f86f01601709335d0000',
+    '2c9f6c946077476a0160781eb392000d',
+    '402880e86016d1b5016016e62bbd0021',
+    '2c9f6c946077476a0160781f6d8c000e',
+    '2c9f6c94621970a801626a35cb4d0175',
+    '2c9f6c94621970a801626a363e5a0176',
+    '2c9f6c94621970a801626a3770620177'
+  ]
+}" at path "cid" for model "ShopList"
+  id: [
+    '2c9f6c946016ea9b016016f79c8e0000',
+    '2c9f6c94608ff843016095163b8c0177',
+    '402880e86016d1b5016016db9b290001',
+    '402880e86016d1b5016016dbff2f0002',
+    '2c9f6c9460337d540160337fefd60000',
+    '402880e86016d1b5016016e083f10010',
+    '402880e86016d1b5016016df1f92000c',
+    '2c9f6c94621970a801626a40feac0178',
+    '2c9f6c94621970a801626a412c240179',
+    '402880e86016d1b5016016e135440011',
+    '402880e86016d1b5016016e171cc0012',
+    '402880e86016d1b5016016e240e60013',
+    '2c9f6c9460a03c0c0160a041ab1d0000',
+    '2c9f6c94609a62be0160a02d1dc20021',
+    '402880e86016d1b5016016e4dca2001e',
+    '402880e86016d1b5016016e51380001f',
+    '2c9f6c94609a62be0160a02de70e0022',
+    '2c9f6c94626a435f01626a4a7f590000',
+    '402880e86016d1b5016016e4ac16001d',
+    '402880e86016d1b5016016e549710020',
+    '402880e86016d1b5016016e656c50022',
+    '2c9f6c946016f86f01601709335d0000',
+    '2c9f6c946077476a0160781eb392000d',
+    '402880e86016d1b5016016e62bbd0021',
+    '2c9f6c946077476a0160781f6d8c000e',
+    '2c9f6c94621970a801626a35cb4d0175',
+    '2c9f6c94621970a801626a363e5a0176',
+    '2c9f6c94621970a801626a3770620177'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  id: [\n    '2c9f6c946016ea9b016016f79c8e0000',\n    '2c9f6c94608ff843016095163b8c0177',\n    '402880e86016d1b5016016db9b290001',\n    '402880e86016d1b5016016dbff2f0002',\n    '2c9f6c9460337d540160337fefd60000',\n    '402880e86016d1b5016016e083f10010',\n    '402880e86016d1b5016016df1f92000c',\n    '2c9f6c94621970a801626a40feac0178',\n    '2c9f6c94621970a801626a412c240179',\n    '402880e86016d1b5016016e135440011',\n    '402880e86016d1b5016016e171cc0012',\n    '402880e86016d1b5016016e240e60013',\n    '2c9f6c9460a03c0c0160a041ab1d0000',\n    '2c9f6c94609a62be0160a02d1dc20021',\n    '402880e86016d1b5016016e4dca2001e',\n    '402880e86016d1b5016016e51380001f',\n    '2c9f6c94609a62be0160a02de70e0022',\n    '2c9f6c94626a435f01626a4a7f590000',\n    '402880e86016d1b5016016e4ac16001d',\n    '402880e86016d1b5016016e549710020',\n    '402880e86016d1b5016016e656c50022',\n    '2c9f6c946016f86f01601709335d0000',\n    '2c9f6c946077476a0160781eb392000d',\n    '402880e86016d1b5016016e62bbd0021',\n    '2c9f6c946077476a0160781f6d8c000e',\n    '2c9f6c94621970a801626a35cb4d0175',\n    '2c9f6c94621970a801626a363e5a0176',\n    '2c9f6c94621970a801626a3770620177'\n  ]\n}\""
+kind: "string"
+value: {"id":["2c9f6c946016ea9b016016f79c8e0000","2c9f6c94608ff843016095163b8c0177","402880e86016d1b5016016db9b290001","402880e86016d1b5016016dbff2f0002","2c9f6c9460337d540160337fefd60000","402880e86016d1b5016016e083f10010","402880e86016d1b5016016df1f92000c","2c9f6c94621970a801626a40feac0178","2c9f6c94621970a801626a412c240179","402880e86016d1b5016016e135440011","402880e86016d1b5016016e171cc0012","402880e86016d1b5016016e240e60013","2c9f6c9460a03c0c0160a041ab1d0000","2c9f6c94609a62be0160a02d1dc20021","402880e86016d1b5016016e4dca2001e","402880e86016d1b5016016e51380001f","2c9f6c94609a62be0160a02de70e0022","2c9f6c94626a435f01626a4a7f590000","402880e86016d1b5016016e4ac16001d","402880e86016d1b5016016e549710020","402880e86016d1b5016016e656c50022","2c9f6c946016f86f01601709335d0000","2c9f6c946077476a0160781eb392000d","402880e86016d1b5016016e62bbd0021","2c9f6c946077476a0160781f6d8c000e","2c9f6c94621970a801626a35cb4d0175","2c9f6c94621970a801626a363e5a0176","2c9f6c94621970a801626a3770620177"]}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:41:57,541 ERROR 34080 [-/127.0.0.1/-/30ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:42:06,648 ERROR 34080 [-/127.0.0.1/-/8ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:44:29,277 ERROR 34080 [-/127.0.0.1/-/45ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:44:32,262 ERROR 34080 [-/127.0.0.1/-/5ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:46:06,377 ERROR 34080 [-/127.0.0.1/-/7ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c9460337d540160337fefd60000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c9460337d540160337fefd60000' }\""
+kind: "string"
+value: {"id":"2c9f6c9460337d540160337fefd60000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:46:09,970 ERROR 34080 [-/127.0.0.1/-/5ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c9460337d540160337fefd60000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c9460337d540160337fefd60000' }\""
+kind: "string"
+value: {"id":"2c9f6c9460337d540160337fefd60000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:46:16,053 ERROR 34080 [-/127.0.0.1/-/8ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:46:38,421 ERROR 34080 [-/127.0.0.1/-/6ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:48:58,402 ERROR 34080 [-/127.0.0.1/-/9ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:48:59,564 ERROR 34080 [-/127.0.0.1/-/10ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c9460337d540160337fefd60000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c9460337d540160337fefd60000' }\""
+kind: "string"
+value: {"id":"2c9f6c9460337d540160337fefd60000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:49:48,598 ERROR 34080 [-/127.0.0.1/-/37ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:50:10,888 ERROR 34080 [-/127.0.0.1/-/6ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:50:13,741 ERROR 34080 [-/127.0.0.1/-/5ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c9460337d540160337fefd60000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c9460337d540160337fefd60000' }\""
+kind: "string"
+value: {"id":"2c9f6c9460337d540160337fefd60000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:52:22,362 ERROR 34080 [-/127.0.0.1/-/7ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c9460337d540160337fefd60000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c9460337d540160337fefd60000' }\""
+kind: "string"
+value: {"id":"2c9f6c9460337d540160337fefd60000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:54:15,095 ERROR 34080 [-/127.0.0.1/-/10ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:54:17,565 ERROR 34080 [-/127.0.0.1/-/6ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:54:21,390 ERROR 34080 [-/127.0.0.1/-/5ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:55:36,440 ERROR 34080 [-/127.0.0.1/-/31ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c9460337d540160337fefd60000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c9460337d540160337fefd60000' }\""
+kind: "string"
+value: {"id":"2c9f6c9460337d540160337fefd60000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:55:45,049 ERROR 34080 [-/127.0.0.1/-/25ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:57:10,183 ERROR 34080 [-/127.0.0.1/-/7ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:57:12,257 ERROR 34080 [-/127.0.0.1/-/6ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:57:14,310 ERROR 34080 [-/127.0.0.1/-/6ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:57:15,577 ERROR 34080 [-/127.0.0.1/-/4ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c9460337d540160337fefd60000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c9460337d540160337fefd60000' }\""
+kind: "string"
+value: {"id":"2c9f6c9460337d540160337fefd60000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:58:02,090 ERROR 34080 [-/127.0.0.1/-/12ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:58:33,727 ERROR 34080 [-/127.0.0.1/-/62ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:58:35,021 ERROR 34080 [-/127.0.0.1/-/9ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+
+2020-06-24 14:59:24,244 ERROR 34080 [-/127.0.0.1/-/23ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '2c9f6c946016ea9b016016f79c8e0000' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '2c9f6c946016ea9b016016f79c8e0000' }\""
+kind: "string"
+value: {"id":"2c9f6c946016ea9b016016f79c8e0000"}
+path: "cid"
+reason: null
+pid: 34080
+hostname: �л�ҫ
+

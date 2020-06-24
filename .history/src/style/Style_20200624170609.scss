@@ -1,0 +1,54 @@
+.login_All {
+    .van-field__error-message {
+        position: absolute !important;
+        left: 80px !important;
+        top: 0px !important;
+    }
+
+    .van-field__control::placeholder {
+        color: rgb(156, 154, 154) !important;
+    }
+}
+
+.sort_all {
+    .van-tabs__wrap {
+        height: 16vw !important;
+    }
+    .van-tabs__content{
+        margin-bottom: 50px;
+    }
+    .van-tab{
+        flex-basis: 30% !important;
+    }
+   
+    .van-tabs__wrap{
+        position: fixed !important;
+        z-index: 1 !important;
+        width: 73% !important;
+        top: 50px !important;
+    }
+    .van-sidebar{
+        position: fixed;
+    }
+    .van-tabs--line{
+        margin-top: -62px !important;
+    }
+}
+
+.city_check{
+    .van-index-anchor{
+        background:rgb(242,242,242) !important;
+  }
+  .van-index-bar__index{
+    font-size: 3.7vw;
+  line-height: 6vw;
+}
+}
+.detail_all{
+    .van-tabs__line{
+        z-index: 0 !important;
+      }
+      .van-divider{
+        margin: 3.8vw 0 !important;
+      }
+}

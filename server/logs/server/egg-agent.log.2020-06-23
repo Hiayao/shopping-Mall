@@ -1,0 +1,41 @@
+2020-06-22 00:00:00,053 INFO 54736 [egg-logrotator] agent logger reload: got log-reload message
+2020-06-22 08:27:08,109 INFO 52996 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-06-22 08:27:08,135 INFO 52996 [egg:core] dump config after load, 17ms
+2020-06-22 08:27:08,895 INFO 52996 [egg-watcher] Start watching: ["C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\config","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks_proxy","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app.js"]
+2020-06-22 08:27:08,896 INFO 52996 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app"
+2020-06-22 08:27:08,897 INFO 52996 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\config"
+2020-06-22 08:27:08,897 INFO 52996 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks"
+2020-06-22 08:27:08,898 INFO 52996 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks_proxy"
+2020-06-22 08:27:08,898 INFO 52996 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app.js"
+2020-06-22 08:27:08,899 INFO 52996 [egg-watcher:agent] watcher start success
+2020-06-22 08:27:09,090 INFO 52996 [egg:core] dump config after ready, 47ms
+2020-06-22 20:30:47,720 INFO 22108 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-06-22 20:30:47,733 INFO 22108 [egg:core] dump config after load, 7ms
+2020-06-22 20:30:47,862 INFO 22108 [egg-watcher] Start watching: ["C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\config","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks_proxy","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app.js"]
+2020-06-22 20:30:47,862 INFO 22108 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app"
+2020-06-22 20:30:47,864 INFO 22108 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\config"
+2020-06-22 20:30:47,865 INFO 22108 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks"
+2020-06-22 20:30:47,866 INFO 22108 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks_proxy"
+2020-06-22 20:30:47,866 INFO 22108 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app.js"
+2020-06-22 20:30:47,868 INFO 22108 [egg-watcher:agent] watcher start success
+2020-06-22 20:30:47,936 INFO 22108 [egg:core] dump config after ready, 30ms
+2020-06-23 08:34:42,072 INFO 29092 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-06-23 08:34:42,205 INFO 29092 [egg:core] dump config after load, 77ms
+2020-06-23 08:34:42,831 INFO 29092 [egg-watcher] Start watching: ["C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\config","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks_proxy","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app.js"]
+2020-06-23 08:34:42,831 INFO 29092 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app"
+2020-06-23 08:34:42,832 INFO 29092 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\config"
+2020-06-23 08:34:42,833 INFO 29092 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks"
+2020-06-23 08:34:42,834 INFO 29092 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks_proxy"
+2020-06-23 08:34:42,834 INFO 29092 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app.js"
+2020-06-23 08:34:42,835 INFO 29092 [egg-watcher:agent] watcher start success
+2020-06-23 08:34:42,876 INFO 29092 [egg:core] dump config after ready, 12ms
+2020-06-23 20:28:37,400 INFO 47832 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-06-23 20:28:37,409 INFO 47832 [egg:core] dump config after load, 6ms
+2020-06-23 20:28:37,479 INFO 47832 [egg-watcher] Start watching: ["C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\config","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks_proxy","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app.js"]
+2020-06-23 20:28:37,479 INFO 47832 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app"
+2020-06-23 20:28:37,480 INFO 47832 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\config"
+2020-06-23 20:28:37,480 INFO 47832 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks"
+2020-06-23 20:28:37,480 INFO 47832 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks_proxy"
+2020-06-23 20:28:37,480 INFO 47832 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app.js"
+2020-06-23 20:28:37,481 INFO 47832 [egg-watcher:agent] watcher start success
+2020-06-23 20:28:37,506 INFO 47832 [egg:core] dump config after ready, 10ms
