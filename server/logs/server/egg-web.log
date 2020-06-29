@@ -34,3 +34,117 @@
 2020-06-24 11:13:55,933 INFO 34080 [egg-watcher:application] watcher start success
 2020-06-24 11:13:55,991 INFO 34080 [egg:core] dump config after ready, 47ms
 2020-06-24 12:47:50,964 WARN 34080 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-25 13:58:03,562 INFO 47528 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-25 13:58:04,229 INFO 47528 [egg-multipart] stream mode enable
+2020-06-25 13:58:07,929 INFO 47528 [egg-mongoose] connecting mongodb://127.0.0.1/shoppingMall
+2020-06-25 13:58:10,723 INFO 47528 [egg-static] starting static serve /public/ -> C:\Users\lenovo\Desktop\shopping-mall\server\app\public
+2020-06-25 13:58:10,735 INFO 47528 [egg-security] use methodnoallow middleware
+2020-06-25 13:58:10,737 INFO 47528 [egg-security] use noopen middleware
+2020-06-25 13:58:10,779 INFO 47528 [egg-security] use nosniff middleware
+2020-06-25 13:58:10,781 INFO 47528 [egg-security] use xssProtection middleware
+2020-06-25 13:58:10,784 INFO 47528 [egg-security] use xframe middleware
+2020-06-25 13:58:10,787 INFO 47528 [egg-security] use dta middleware
+2020-06-25 13:58:10,787 INFO 47528 [egg-security] compose 6 middlewares into one security middleware
+2020-06-25 13:58:11,016 INFO 47528 [egg:core] dump config after load, 38ms
+2020-06-25 13:58:11,113 INFO 47528 [egg-mongoose] starting...
+2020-06-25 13:58:11,598 INFO 47528 [egg-mongoose] mongodb://127.0.0.1/shoppingMall connected successfully
+2020-06-25 13:58:11,716 INFO 47528 [egg-mongoose] instance[0] start successfully
+2020-06-25 13:58:11,747 INFO 47528 [egg-watcher:application] watcher start success
+2020-06-25 13:58:11,826 INFO 47528 [egg:core] dump config after ready, 69ms
+2020-06-26 13:36:03,269 INFO 22572 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-26 13:36:03,779 INFO 22572 [egg-multipart] stream mode enable
+2020-06-26 13:36:09,187 INFO 22572 [egg-mongoose] connecting mongodb://127.0.0.1/shoppingMall
+2020-06-26 13:36:13,291 INFO 22572 [egg-static] starting static serve /public/ -> C:\Users\lenovo\Desktop\shopping-mall\server\app\public
+2020-06-26 13:36:13,407 INFO 22572 [egg-security] use methodnoallow middleware
+2020-06-26 13:36:13,409 INFO 22572 [egg-security] use noopen middleware
+2020-06-26 13:36:13,416 INFO 22572 [egg-security] use nosniff middleware
+2020-06-26 13:36:13,419 INFO 22572 [egg-security] use xssProtection middleware
+2020-06-26 13:36:13,422 INFO 22572 [egg-security] use xframe middleware
+2020-06-26 13:36:13,425 INFO 22572 [egg-security] use dta middleware
+2020-06-26 13:36:13,425 INFO 22572 [egg-security] compose 6 middlewares into one security middleware
+2020-06-26 13:36:14,134 INFO 22572 [egg:core] dump config after load, 533ms
+2020-06-26 13:36:14,318 INFO 22572 [egg-mongoose] starting...
+2020-06-26 13:36:14,754 INFO 22572 [egg-mongoose] mongodb://127.0.0.1/shoppingMall connected successfully
+2020-06-26 13:36:14,924 INFO 22572 [egg-mongoose] instance[0] start successfully
+2020-06-26 13:36:14,951 INFO 22572 [egg-watcher:application] watcher start success
+2020-06-26 13:36:15,313 INFO 22572 [egg:core] dump config after ready, 358ms
+2020-06-28 08:23:20,259 INFO 77288 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-28 08:23:20,531 INFO 77288 [egg-multipart] stream mode enable
+2020-06-28 08:23:24,843 INFO 77288 [egg-mongoose] connecting mongodb://127.0.0.1/shoppingMall
+2020-06-28 08:23:28,804 INFO 77288 [egg-static] starting static serve /public/ -> C:\Users\lenovo\Desktop\shopping-mall\server\app\public
+2020-06-28 08:23:28,856 INFO 77288 [egg-security] use methodnoallow middleware
+2020-06-28 08:23:28,859 INFO 77288 [egg-security] use noopen middleware
+2020-06-28 08:23:28,868 INFO 77288 [egg-security] use nosniff middleware
+2020-06-28 08:23:28,870 INFO 77288 [egg-security] use xssProtection middleware
+2020-06-28 08:23:28,873 INFO 77288 [egg-security] use xframe middleware
+2020-06-28 08:23:28,876 INFO 77288 [egg-security] use dta middleware
+2020-06-28 08:23:28,876 INFO 77288 [egg-security] compose 6 middlewares into one security middleware
+2020-06-28 08:23:29,092 INFO 77288 [egg:core] dump config after load, 56ms
+2020-06-28 08:23:29,108 INFO 77288 [egg-mongoose] starting...
+2020-06-28 08:23:29,559 INFO 77288 [egg-mongoose] mongodb://127.0.0.1/shoppingMall connected successfully
+2020-06-28 08:23:29,651 INFO 77288 [egg-mongoose] instance[0] start successfully
+2020-06-28 08:23:29,727 INFO 77288 [egg-watcher:application] watcher start success
+2020-06-28 08:23:29,962 INFO 77288 [egg:core] dump config after ready, 230ms
+2020-06-28 12:37:29,447 WARN 77288 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-28 21:01:09,643 INFO 64336 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-28 21:01:10,097 INFO 64336 [egg-multipart] stream mode enable
+2020-06-28 21:01:14,735 INFO 64336 [egg-mongoose] connecting mongodb://127.0.0.1/shoppingMall
+2020-06-28 21:01:18,465 INFO 64336 [egg-static] starting static serve /public/ -> C:\Users\lenovo\Desktop\shopping-mall\server\app\public
+2020-06-28 21:01:18,502 INFO 64336 [egg-security] use methodnoallow middleware
+2020-06-28 21:01:18,505 INFO 64336 [egg-security] use noopen middleware
+2020-06-28 21:01:18,512 INFO 64336 [egg-security] use nosniff middleware
+2020-06-28 21:01:18,515 INFO 64336 [egg-security] use xssProtection middleware
+2020-06-28 21:01:18,517 INFO 64336 [egg-security] use xframe middleware
+2020-06-28 21:01:18,520 INFO 64336 [egg-security] use dta middleware
+2020-06-28 21:01:18,520 INFO 64336 [egg-security] compose 6 middlewares into one security middleware
+2020-06-28 21:01:18,853 INFO 64336 [egg:core] dump config after load, 179ms
+2020-06-28 21:01:18,945 INFO 64336 [egg-mongoose] starting...
+2020-06-28 21:01:19,394 INFO 64336 [egg-mongoose] mongodb://127.0.0.1/shoppingMall connected successfully
+2020-06-28 21:01:19,412 INFO 64336 [egg-mongoose] instance[0] start successfully
+2020-06-28 21:01:19,428 INFO 64336 [egg-watcher:application] watcher start success
+2020-06-28 21:01:19,458 INFO 64336 [egg:core] dump config after ready, 26ms
+2020-06-29 08:40:50,004 INFO 19220 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-29 08:40:50,660 INFO 19220 [egg-multipart] stream mode enable
+2020-06-29 08:40:57,843 INFO 19220 [egg-mongoose] connecting mongodb://127.0.0.1/shoppingMall
+2020-06-29 08:41:03,469 INFO 19220 [egg-static] starting static serve /public/ -> C:\Users\lenovo\Desktop\shopping-mall\server\app\public
+2020-06-29 08:41:03,491 INFO 19220 [egg-security] use methodnoallow middleware
+2020-06-29 08:41:03,493 INFO 19220 [egg-security] use noopen middleware
+2020-06-29 08:41:03,503 INFO 19220 [egg-security] use nosniff middleware
+2020-06-29 08:41:03,506 INFO 19220 [egg-security] use xssProtection middleware
+2020-06-29 08:41:03,508 INFO 19220 [egg-security] use xframe middleware
+2020-06-29 08:41:03,513 INFO 19220 [egg-security] use dta middleware
+2020-06-29 08:41:03,513 INFO 19220 [egg-security] compose 6 middlewares into one security middleware
+2020-06-29 08:41:03,818 INFO 19220 [egg:core] dump config after load, 74ms
+2020-06-29 08:41:03,979 INFO 19220 [egg-mongoose] starting...
+2020-06-29 08:41:04,512 INFO 19220 [egg-mongoose] mongodb://127.0.0.1/shoppingMall connected successfully
+2020-06-29 08:41:04,717 INFO 19220 [egg-mongoose] instance[0] start successfully
+2020-06-29 08:41:04,734 INFO 19220 [egg-watcher:application] watcher start success
+2020-06-29 08:41:04,756 INFO 19220 [egg:core] dump config after ready, 17ms
+2020-06-29 12:26:15,268 WARN 19220 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-06-29 12:28:38,579 ERROR 19220 nodejs.TcpConnectionTimeoutError: [TCPBase] socket connect timeout (3000ms) (address: 127.0.0.1:64417) (127.0.0.1) (127.0.0.1) (127.0.0.1)
+    at Socket.<anonymous> (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_tcp-base@3.1.0@tcp-base\lib\base.js:404:19)
+    at Object.onceWrapper (events.js:421:28)
+    at Socket.emit (events.js:315:20)
+    at Socket._onTimeout (net.js:481:8)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "TcpConnectionTimeoutError"
+host: "127.0.0.1"
+port: 64417
+pid: 19220
+hostname: �л�ҫ
+
+2020-06-29 12:28:38,589 ERROR 19220 nodejs.TcpConnectionTimeoutError: [TCPBase] socket connect timeout (3000ms) (address: 127.0.0.1:64417) (127.0.0.1) (127.0.0.1) (127.0.0.1) (127.0.0.1) (127.0.0.1) (127.0.0.1)
+    at Socket.<anonymous> (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_tcp-base@3.1.0@tcp-base\lib\base.js:404:19)
+    at Object.onceWrapper (events.js:421:28)
+    at Socket.emit (events.js:315:20)
+    at Socket._onTimeout (net.js:481:8)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "TcpConnectionTimeoutError"
+host: "127.0.0.1"
+port: 64417
+pid: 19220
+hostname: �л�ҫ
+
+2020-06-29 12:28:38,594 WARN 19220 [ClusterClient:Watcher] follower closed, and try to init it again

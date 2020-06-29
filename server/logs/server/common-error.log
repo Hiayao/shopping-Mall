@@ -1280,3 +1280,1480 @@ reason: null
 pid: 34080
 hostname: �л�ҫ
 
+2020-06-25 18:15:19,713 ERROR 47528 [-/127.0.0.1/-/74ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 47528
+hostname: �л�ҫ
+
+2020-06-25 18:16:49,222 ERROR 47528 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 47528
+hostname: �л�ҫ
+
+2020-06-25 18:18:05,035 ERROR 47528 [-/127.0.0.1/-/6ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 47528
+hostname: �л�ҫ
+
+2020-06-25 18:19:12,503 ERROR 47528 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 47528
+hostname: �л�ҫ
+
+2020-06-25 18:19:15,746 ERROR 47528 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 47528
+hostname: �л�ҫ
+
+2020-06-25 18:19:42,346 ERROR 47528 [-/127.0.0.1/-/24ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '5ef45cd0b40b68b9a8b5cf09' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5ef45cd0b40b68b9a8b5cf09' }\""
+kind: "string"
+value: {"id":"5ef45cd0b40b68b9a8b5cf09"}
+path: "cid"
+reason: null
+pid: 47528
+hostname: �л�ҫ
+
+2020-06-25 18:20:36,408 ERROR 47528 [-/127.0.0.1/-/5ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '5ef45cd0b40b68b9a8b5cf09' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5ef45cd0b40b68b9a8b5cf09' }\""
+kind: "string"
+value: {"id":"5ef45cd0b40b68b9a8b5cf09"}
+path: "cid"
+reason: null
+pid: 47528
+hostname: �л�ҫ
+
+2020-06-25 18:20:36,414 ERROR 47528 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '5ef4597db40b68b9a8b5cf08' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5ef4597db40b68b9a8b5cf08' }\""
+kind: "string"
+value: {"id":"5ef4597db40b68b9a8b5cf08"}
+path: "cid"
+reason: null
+pid: 47528
+hostname: �л�ҫ
+
+2020-06-25 18:20:54,469 ERROR 47528 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 47528
+hostname: �л�ҫ
+
+2020-06-26 13:42:16,410 ERROR 22572 [-/127.0.0.1/-/393ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '5ef45cd0b40b68b9a8b5cf09' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5ef45cd0b40b68b9a8b5cf09' }\""
+kind: "string"
+value: {"id":"5ef45cd0b40b68b9a8b5cf09"}
+path: "cid"
+reason: null
+pid: 22572
+hostname: �л�ҫ
+
+2020-06-26 13:47:10,193 ERROR 22572 [-/127.0.0.1/-/26ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '5ef45cd0b40b68b9a8b5cf09' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5ef45cd0b40b68b9a8b5cf09' }\""
+kind: "string"
+value: {"id":"5ef45cd0b40b68b9a8b5cf09"}
+path: "cid"
+reason: null
+pid: 22572
+hostname: �л�ҫ
+
+2020-06-26 13:47:39,593 ERROR 22572 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: 'e6a5432bfffe4fd480a2db49904d8e7b' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: 'e6a5432bfffe4fd480a2db49904d8e7b' }\""
+kind: "string"
+value: {"id":"e6a5432bfffe4fd480a2db49904d8e7b"}
+path: "cid"
+reason: null
+pid: 22572
+hostname: �л�ҫ
+
+2020-06-26 13:47:55,497 ERROR 22572 [-/127.0.0.1/-/4ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '5eeb16fbde80b344646a06ca' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5eeb16fbde80b344646a06ca' }\""
+kind: "string"
+value: {"id":"5eeb16fbde80b344646a06ca"}
+path: "cid"
+reason: null
+pid: 22572
+hostname: �л�ҫ
+
+2020-06-26 13:48:14,010 ERROR 22572 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '5eeb16fbde80b344646a06ca' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5eeb16fbde80b344646a06ca' }\""
+kind: "string"
+value: {"id":"5eeb16fbde80b344646a06ca"}
+path: "cid"
+reason: null
+pid: 22572
+hostname: �л�ҫ
+
+2020-06-26 13:48:14,024 ERROR 22572 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '5eeb16fbde80b344646a06ca' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5eeb16fbde80b344646a06ca' }\""
+kind: "string"
+value: {"id":"5eeb16fbde80b344646a06ca"}
+path: "cid"
+reason: null
+pid: 22572
+hostname: �л�ҫ
+
+2020-06-26 13:54:22,653 ERROR 22572 [-/127.0.0.1/-/15ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: '5eeb16fbde80b344646a06ca' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5eeb16fbde80b344646a06ca' }\""
+kind: "string"
+value: {"id":"5eeb16fbde80b344646a06ca"}
+path: "cid"
+reason: null
+pid: 22572
+hostname: �л�ҫ
+
+2020-06-28 08:57:00,507 ERROR 77288 [-/127.0.0.1/-/50ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 08:57:00,566 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 08:58:02,021 ERROR 77288 [-/127.0.0.1/-/6ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 08:58:02,042 ERROR 77288 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 08:59:37,829 ERROR 77288 [-/127.0.0.1/-/5ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [] }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [] }\""
+kind: "string"
+value: {"idArr":[]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 08:59:37,836 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [] }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [] }\""
+kind: "string"
+value: {"idArr":[]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:12:45,122 ERROR 77288 [-/127.0.0.1/-/48ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:12:45,155 ERROR 77288 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:14:32,010 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453',\n    'a8a14ebf433c4e46b627c7d5233a5f4e'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453","a8a14ebf433c4e46b627c7d5233a5f4e"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:14:32,024 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453',\n    'a8a14ebf433c4e46b627c7d5233a5f4e'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453","a8a14ebf433c4e46b627c7d5233a5f4e"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:14:32,033 ERROR 77288 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453',\n    'a8a14ebf433c4e46b627c7d5233a5f4e'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453","a8a14ebf433c4e46b627c7d5233a5f4e"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:14:51,872 ERROR 77288 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453',\n    'a8a14ebf433c4e46b627c7d5233a5f4e'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453","a8a14ebf433c4e46b627c7d5233a5f4e"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:14:51,882 ERROR 77288 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453',\n    'a8a14ebf433c4e46b627c7d5233a5f4e'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453","a8a14ebf433c4e46b627c7d5233a5f4e"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:14:51,892 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453',\n    'a8a14ebf433c4e46b627c7d5233a5f4e'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453","a8a14ebf433c4e46b627c7d5233a5f4e"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:15:48,008 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:15:48,333 ERROR 77288 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:15:58,134 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:15:58,143 ERROR 77288 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:16:59,587 ERROR 77288 [-/127.0.0.1/-/7ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:16:59,888 ERROR 77288 [-/127.0.0.1/-/7ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:17:07,134 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:17:07,442 ERROR 77288 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:17:50,459 ERROR 77288 [-/127.0.0.1/-/30ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:17:50,490 ERROR 77288 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:25:18,396 ERROR 77288 [-/127.0.0.1/-/8ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:25:18,688 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:26:03,136 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:26:03,146 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:26:42,489 ERROR 77288 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [ 'e6a5432bfffe4fd480a2db49904d8e7b' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [ 'e6a5432bfffe4fd480a2db49904d8e7b' ] }\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:28:40,075 ERROR 77288 [-/127.0.0.1/-/4ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [ '5ef45cd0b40b68b9a8b5cf09' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [ '5ef45cd0b40b68b9a8b5cf09' ] }\""
+kind: "string"
+value: {"idArr":["5ef45cd0b40b68b9a8b5cf09"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:35:04,311 ERROR 77288 [-/127.0.0.1/-/8ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e',
+    '449666157ac2438991810e0ae8947cad',
+    '24afea564e5248b5a2bc59da95f09911'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e',
+    '449666157ac2438991810e0ae8947cad',
+    '24afea564e5248b5a2bc59da95f09911'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453',\n    'a8a14ebf433c4e46b627c7d5233a5f4e',\n    '449666157ac2438991810e0ae8947cad',\n    '24afea564e5248b5a2bc59da95f09911'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453","a8a14ebf433c4e46b627c7d5233a5f4e","449666157ac2438991810e0ae8947cad","24afea564e5248b5a2bc59da95f09911"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:35:04,336 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e',
+    '449666157ac2438991810e0ae8947cad',
+    '24afea564e5248b5a2bc59da95f09911'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e',
+    '449666157ac2438991810e0ae8947cad',
+    '24afea564e5248b5a2bc59da95f09911'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453',\n    'a8a14ebf433c4e46b627c7d5233a5f4e',\n    '449666157ac2438991810e0ae8947cad',\n    '24afea564e5248b5a2bc59da95f09911'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453","a8a14ebf433c4e46b627c7d5233a5f4e","449666157ac2438991810e0ae8947cad","24afea564e5248b5a2bc59da95f09911"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:35:04,344 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e',
+    '449666157ac2438991810e0ae8947cad',
+    '24afea564e5248b5a2bc59da95f09911'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e',
+    '449666157ac2438991810e0ae8947cad',
+    '24afea564e5248b5a2bc59da95f09911'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453',\n    'a8a14ebf433c4e46b627c7d5233a5f4e',\n    '449666157ac2438991810e0ae8947cad',\n    '24afea564e5248b5a2bc59da95f09911'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453","a8a14ebf433c4e46b627c7d5233a5f4e","449666157ac2438991810e0ae8947cad","24afea564e5248b5a2bc59da95f09911"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:35:04,352 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e',
+    '449666157ac2438991810e0ae8947cad',
+    '24afea564e5248b5a2bc59da95f09911'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e',
+    '449666157ac2438991810e0ae8947cad',
+    '24afea564e5248b5a2bc59da95f09911'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453',\n    'a8a14ebf433c4e46b627c7d5233a5f4e',\n    '449666157ac2438991810e0ae8947cad',\n    '24afea564e5248b5a2bc59da95f09911'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453","a8a14ebf433c4e46b627c7d5233a5f4e","449666157ac2438991810e0ae8947cad","24afea564e5248b5a2bc59da95f09911"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:35:04,361 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e',
+    '449666157ac2438991810e0ae8947cad',
+    '24afea564e5248b5a2bc59da95f09911'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e',
+    '449666157ac2438991810e0ae8947cad',
+    '24afea564e5248b5a2bc59da95f09911'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453',\n    'a8a14ebf433c4e46b627c7d5233a5f4e',\n    '449666157ac2438991810e0ae8947cad',\n    '24afea564e5248b5a2bc59da95f09911'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453","a8a14ebf433c4e46b627c7d5233a5f4e","449666157ac2438991810e0ae8947cad","24afea564e5248b5a2bc59da95f09911"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:35:43,100 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e',
+    '449666157ac2438991810e0ae8947cad',
+    '24afea564e5248b5a2bc59da95f09911'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'a8a14ebf433c4e46b627c7d5233a5f4e',
+    '449666157ac2438991810e0ae8947cad',
+    '24afea564e5248b5a2bc59da95f09911'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453',\n    'a8a14ebf433c4e46b627c7d5233a5f4e',\n    '449666157ac2438991810e0ae8947cad',\n    '24afea564e5248b5a2bc59da95f09911'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453","a8a14ebf433c4e46b627c7d5233a5f4e","449666157ac2438991810e0ae8947cad","24afea564e5248b5a2bc59da95f09911"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:36:20,462 ERROR 77288 [-/127.0.0.1/-/4ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [ 'e6a5432bfffe4fd480a2db49904d8e7b' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [ 'e6a5432bfffe4fd480a2db49904d8e7b' ] }\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:37:26,347 ERROR 77288 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'e6a5432bfffe4fd480a2db49904d8e7b'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'e6a5432bfffe4fd480a2db49904d8e7b'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'e6a5432bfffe4fd480a2db49904d8e7b'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","e6a5432bfffe4fd480a2db49904d8e7b"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:37:39,509 ERROR 77288 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:39:14,627 ERROR 77288 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [ 'bba0fe9496e7443f93451b15e1a99453' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [ 'bba0fe9496e7443f93451b15e1a99453' ] }\""
+kind: "string"
+value: {"idArr":["bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:39:22,153 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'bba0fe9496e7443f93451b15e1a99453',
+    'e6a5432bfffe4fd480a2db49904d8e7b'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'bba0fe9496e7443f93451b15e1a99453',
+    'e6a5432bfffe4fd480a2db49904d8e7b'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'bba0fe9496e7443f93451b15e1a99453',\n    'e6a5432bfffe4fd480a2db49904d8e7b'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["bba0fe9496e7443f93451b15e1a99453","e6a5432bfffe4fd480a2db49904d8e7b"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:39:45,484 ERROR 77288 [-/127.0.0.1/-/4ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'bba0fe9496e7443f93451b15e1a99453',
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'e6a5432bfffe4fd480a2db49904d8e7b'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'bba0fe9496e7443f93451b15e1a99453',
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'e6a5432bfffe4fd480a2db49904d8e7b'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'bba0fe9496e7443f93451b15e1a99453',\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'e6a5432bfffe4fd480a2db49904d8e7b'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["bba0fe9496e7443f93451b15e1a99453","e6a5432bfffe4fd480a2db49904d8e7b","e6a5432bfffe4fd480a2db49904d8e7b"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:42:01,663 ERROR 77288 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [ 'e6a5432bfffe4fd480a2db49904d8e7b' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [ 'e6a5432bfffe4fd480a2db49904d8e7b' ] }\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:42:08,304 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:42:43,620 ERROR 77288 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'e6a5432bfffe4fd480a2db49904d8e7b'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'e6a5432bfffe4fd480a2db49904d8e7b'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453',\n    'e6a5432bfffe4fd480a2db49904d8e7b'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453","e6a5432bfffe4fd480a2db49904d8e7b"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:42:43,630 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453',\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453","e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:45:29,386 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'e6a5432bfffe4fd480a2db49904d8e7b'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'e6a5432bfffe4fd480a2db49904d8e7b'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453',\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453',\n    'e6a5432bfffe4fd480a2db49904d8e7b'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453","e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453","e6a5432bfffe4fd480a2db49904d8e7b"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:46:48,708 ERROR 77288 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'e6a5432bfffe4fd480a2db49904d8e7b'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453',
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'e6a5432bfffe4fd480a2db49904d8e7b'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453',\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453',\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'e6a5432bfffe4fd480a2db49904d8e7b'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453","e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453","e6a5432bfffe4fd480a2db49904d8e7b","e6a5432bfffe4fd480a2db49904d8e7b"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:46:55,065 ERROR 77288 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [ 'e6a5432bfffe4fd480a2db49904d8e7b' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [ 'e6a5432bfffe4fd480a2db49904d8e7b' ] }\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:47:54,125 ERROR 77288 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [ 'e6a5432bfffe4fd480a2db49904d8e7b' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [ 'e6a5432bfffe4fd480a2db49904d8e7b' ] }\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:47:59,643 ERROR 77288 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    'e6a5432bfffe4fd480a2db49904d8e7b',
+    'bba0fe9496e7443f93451b15e1a99453'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    'e6a5432bfffe4fd480a2db49904d8e7b',\n    'bba0fe9496e7443f93451b15e1a99453'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b","bba0fe9496e7443f93451b15e1a99453"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 09:49:39,167 ERROR 77288 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [ 'e6a5432bfffe4fd480a2db49904d8e7b' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [ 'e6a5432bfffe4fd480a2db49904d8e7b' ] }\""
+kind: "string"
+value: {"idArr":["e6a5432bfffe4fd480a2db49904d8e7b"]}
+path: "cid"
+reason: null
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 12:37:29,414 ERROR 74228 nodejs.ClusterClientNoResponseError: client no response in 899722ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 74228
+hostname: �л�ҫ
+
+2020-06-28 17:22:47,403 ERROR 77288 [-/127.0.0.1/-/51ms POST /v1/addShop] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.addShop (C:\Users\lenovo\Desktop\shopping-mall\server\app\controller\api\operatingGoods.js:61:38)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\lenovo\Desktop\shopping-mall\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_egg-development@2.5.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_koa-session@6.0.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_koa-static-cache@5.1.3@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_egg@2.26.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_egg@2.26.1@egg\app\middleware\meta.js:12:5)
+
+pid: 77288
+hostname: �л�ҫ
+
+2020-06-28 22:16:00,145 ERROR 64336 [-/127.0.0.1/-/196ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\lenovo\Desktop\shopping-mall\server\app\controller\api\operatingGoods.js:16:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\lenovo\Desktop\shopping-mall\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_egg-development@2.5.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_koa-session@6.0.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_koa-static-cache@5.1.3@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_egg@2.26.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_egg@2.26.1@egg\app\middleware\meta.js:12:5)
+
+pid: 64336
+hostname: �л�ҫ
+
+2020-06-29 12:26:15,261 ERROR 40896 nodejs.ClusterClientNoResponseError: client no response in 709591ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 40896
+hostname: �л�ҫ
+
+2020-06-29 12:28:38,552 ERROR 19220 nodejs.TcpConnectionTimeoutError: [TCPBase] socket connect timeout (3000ms) (address: 127.0.0.1:64417) (127.0.0.1)
+    at Socket.<anonymous> (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_tcp-base@3.1.0@tcp-base\lib\base.js:404:19)
+    at Object.onceWrapper (events.js:421:28)
+    at Socket.emit (events.js:315:20)
+    at Socket._onTimeout (net.js:481:8)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "TcpConnectionTimeoutError"
+host: "127.0.0.1"
+port: 64417
+pid: 19220
+hostname: �л�ҫ
+
+2020-06-29 12:28:38,580 ERROR 19220 nodejs.TcpConnectionTimeoutError: [TCPBase] socket connect timeout (3000ms) (address: 127.0.0.1:64417) (127.0.0.1) (127.0.0.1) (127.0.0.1) (127.0.0.1)
+    at Socket.<anonymous> (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_tcp-base@3.1.0@tcp-base\lib\base.js:404:19)
+    at Object.onceWrapper (events.js:421:28)
+    at Socket.emit (events.js:315:20)
+    at Socket._onTimeout (net.js:481:8)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "TcpConnectionTimeoutError"
+host: "127.0.0.1"
+port: 64417
+pid: 19220
+hostname: �л�ҫ
+
