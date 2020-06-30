@@ -2757,3 +2757,11 @@ port: 64417
 pid: 19220
 hostname: �л�ҫ
 
+2020-06-30 12:19:53,568 ERROR 30864 nodejs.ClusterClientNoResponseError: client no response in 69716ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 30864
+hostname: �л�ҫ
+

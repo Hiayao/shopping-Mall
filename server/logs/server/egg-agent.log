@@ -112,3 +112,21 @@ name: "ClusterClientNoResponseError"
 pid: 40896
 hostname: �л�ҫ
 
+2020-06-30 08:27:56,806 INFO 30864 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-06-30 08:27:56,831 INFO 30864 [egg:core] dump config after load, 14ms
+2020-06-30 08:27:57,592 INFO 30864 [egg-watcher] Start watching: ["C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\config","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks_proxy","C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app.js"]
+2020-06-30 08:27:57,592 INFO 30864 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app"
+2020-06-30 08:27:57,593 INFO 30864 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\config"
+2020-06-30 08:27:57,594 INFO 30864 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks"
+2020-06-30 08:27:57,594 INFO 30864 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\mocks_proxy"
+2020-06-30 08:27:57,595 INFO 30864 [egg-watcher] Start watching: "C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\app.js"
+2020-06-30 08:27:57,596 INFO 30864 [egg-watcher:agent] watcher start success
+2020-06-30 08:27:57,764 INFO 30864 [egg:core] dump config after ready, 105ms
+2020-06-30 12:19:59,800 ERROR 30864 nodejs.ClusterClientNoResponseError: client no response in 69716ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 30864
+hostname: �л�ҫ
+
