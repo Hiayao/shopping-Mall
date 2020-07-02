@@ -20,7 +20,7 @@
 
     <van-index-bar :index-list="indexList">
       <div v-for="(item,index) in list" :key="index">
-        <van-index-anchor :index="item" v-if="filterCities[item]&&filterCities[item].length"/>
+        <van-index-anchor :index="item" />
         <van-cell :title="item1.name" v-for="(item1,index1) in filterCities[item]" :key="index1" />
       </div>
     </van-index-bar>
@@ -54,7 +54,6 @@ export default {
   mounted() {
     this.hot = this.citylist.data.hotCities;
     this.cities = this.citylist.data.cities;
-    this.filterCities = this.citylist.data.cities;
     let key = Object.keys(this.citylist.data.cities);
     this.list = key;
     this.indexList = key; //右边索引栏的数据
@@ -68,21 +67,12 @@ export default {
         
       // });
       // console.log(this.citylist.data.cities)
-      if (!val) {
-        this.filterCities = this.cities
-      }
-      if (val.length === 1 && (val >= 'A' && val <= 'Z')) {
-        this.filterCities = {
-          [val]: this.cities[val] || []
-        }
-      } else {
-        const filterCities = {}
-        this.indexList.forEach(key => {
-          const itemList = this.cities[key]
-          filterCities[key] = itemList.filter(({name}) => name.indexOf(val) !== -1)
-        })
-        this.filterCities = filterCities
-      }
+      const filterCities = {}
+      this.indexList.forEach(key => {
+        const itemList = this.cities[key]
+        filterCities[key] = itemList.filter(({name}) => name.indexOf(val) !== -1)
+      })
+      this.filterCities = filterCities
     }
   },
   computed: {

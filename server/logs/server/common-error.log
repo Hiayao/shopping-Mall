@@ -1,8 +1,0 @@
-2020-07-02 12:38:52,332 ERROR 71252 nodejs.ClusterClientNoResponseError: client no response in 887449ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
-    at Timeout._onTimeout (C:\Users\lenovo\Desktop\shopping-mall\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
-    at listOnTimeout (internal/timers.js:549:17)
-    at processTimers (internal/timers.js:492:7)
-name: "ClusterClientNoResponseError"
-pid: 71252
-hostname: �л�ҫ
-

@@ -99,12 +99,7 @@ export default {
       //   console.log(this.day)
     },
     save() {
-this.$dialog
-          .confirm({
-            message: "是否修改个人资料"
-          })
-          .then(() => {
-            this.$api
+      this.$api
         .saveUser({
           gender: this.userInfo.gender,
           year: this.year,
@@ -114,21 +109,12 @@ this.$dialog
           nickname: this.userInfo.nickname
         })
         .then(res => {
-          localStorage.setItem("user", this.userInfo.nickname); //储存修改成功的用户名
+          localStorage.setItem("user", this.nickname); //储存修改成功的用户名
           console.log(res);
-          Toast.success('修改资料成功')
-          this.$router.push('/my')
         })
         .catch(err => {
           console.log(err);
         });
-            // on confirm 点击确定按钮后做什么
-          })
-          .catch(() => {
-            // on cancel
-          });
-
-      
     }
   },
   mounted() {

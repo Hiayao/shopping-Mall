@@ -120,8 +120,7 @@
     <div class="dav">
       <van-goods-action>
         <van-goods-action-icon icon="wap-home-o" text="首页" to="/" />
-        <van-goods-action-icon icon="cart-o" text="购物车" :badge='cartNum' v-if="this.user !== null" to="/shoppingcart" />
-        <van-goods-action-icon icon="cart-o" text="购物车" v-else to="/shoppingcart" />
+        <van-goods-action-icon icon="cart-o" text="购物车" :badge='cartNum' to="/shoppingcart" />
         <van-goods-action-button color="#FF8855" type="warning" text="加入购物车" @click="addCart" />
         <van-goods-action-button color="#FF4444" type="danger" text="立即购买" @click="showPopup" />
       </van-goods-action>
