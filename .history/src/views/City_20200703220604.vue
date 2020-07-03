@@ -63,13 +63,11 @@ export default {
     // 点击列表中一个城市实现手动定位
     checkCity(item1) {
       this.citys = item1.name;
-      this.$router.push('/')
       localStorage.setItem("city", this.citys);
     },
     // 点击热门中一个城市实现手动定位
     checkCitys(item) {
       this.citys = item.name;
-      this.$router.push('/')
       localStorage.setItem("city", this.citys);
     },
     // 导航右边按钮

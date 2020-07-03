@@ -33,3 +33,20 @@
 2020-07-03 10:43:51,025 INFO 74896 [egg-mongoose] instance[0] start successfully
 2020-07-03 10:43:51,200 INFO 74896 [egg-watcher:application] watcher start success
 2020-07-03 10:43:51,656 INFO 74896 [egg:core] dump config after ready, 435ms
+2020-07-03 20:48:25,820 INFO 34920 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\Desktop\\shopping-mall\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-03 20:48:26,258 INFO 34920 [egg-multipart] stream mode enable
+2020-07-03 20:48:31,680 INFO 34920 [egg-mongoose] connecting mongodb://127.0.0.1/shoppingMall
+2020-07-03 20:48:35,480 INFO 34920 [egg-static] starting static serve /public/ -> C:\Users\lenovo\Desktop\shopping-mall\server\app\public
+2020-07-03 20:48:35,490 INFO 34920 [egg-security] use methodnoallow middleware
+2020-07-03 20:48:35,493 INFO 34920 [egg-security] use noopen middleware
+2020-07-03 20:48:35,507 INFO 34920 [egg-security] use nosniff middleware
+2020-07-03 20:48:35,510 INFO 34920 [egg-security] use xssProtection middleware
+2020-07-03 20:48:35,512 INFO 34920 [egg-security] use xframe middleware
+2020-07-03 20:48:35,515 INFO 34920 [egg-security] use dta middleware
+2020-07-03 20:48:35,515 INFO 34920 [egg-security] compose 6 middlewares into one security middleware
+2020-07-03 20:48:35,690 INFO 34920 [egg:core] dump config after load, 15ms
+2020-07-03 20:48:35,859 INFO 34920 [egg-mongoose] starting...
+2020-07-03 20:48:36,210 INFO 34920 [egg-mongoose] mongodb://127.0.0.1/shoppingMall connected successfully
+2020-07-03 20:48:36,234 INFO 34920 [egg-mongoose] instance[0] start successfully
+2020-07-03 20:48:36,248 INFO 34920 [egg-watcher:application] watcher start success
+2020-07-03 20:48:36,273 INFO 34920 [egg:core] dump config after ready, 21ms

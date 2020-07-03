@@ -1,11 +1,7 @@
 <template>
   <div class="city_check">
     <div class="top">
-      <van-nav-bar title="城市列表" left-text left-arrow @click-left="onClickLeft">
-      <template #right>
-        <van-icon name="wap-home-o" size="20" @click="onClickRight" />
-      </template>
-      </van-nav-bar>
+      <van-nav-bar title="城市列表" left-text left-arrow @click-left="onClickLeft" />
     </div>
     <div class="recommend">
       <van-search v-model="value" shape="round" show-action placeholder="请输入搜索关键词" class="ipt" />
@@ -18,7 +14,7 @@
       </div>
       <div class="nowCityWord">热门城市</div>
       <div class="hotCityList">
-        <div class="hotCity" v-for="item in hot" :key="item.id" @click="checkCitys(item)">{{item.name}}</div>
+        <div class="hotCity" v-for="item in hot" :key="item.id">{{item.name}}</div>
       </div>
     </div>
 
@@ -60,22 +56,9 @@ export default {
       this.$router.go(-1);
       Toast("返回");
     },
-    // 点击列表中一个城市实现手动定位
     checkCity(item1) {
       this.citys = item1.name;
-      this.$router.push('/')
       localStorage.setItem("city", this.citys);
-    },
-    // 点击热门中一个城市实现手动定位
-    checkCitys(item) {
-      this.citys = item.name;
-      this.$router.push('/')
-      localStorage.setItem("city", this.citys);
-    },
-    // 导航右边按钮
-    onClickRight() {
-      this.$router.push("/");
-      Toast("回到首页");
     }
   },
   mounted() {
@@ -98,20 +81,39 @@ export default {
         this.filterCities = {
           [val]: this.cities[val] || []
         };
-      } else {
+      }
+      // if (val) {
+      //   const filterCities = {};
+      //   this.indexList.forEach(key => {
+      //     const itemList = this.cities[key];
+      //     filterCities[key] = itemList.filter(
+      //       ({ spell }) => spell.indexOf(val) !== -1
+      //     );
+      //   });
+      // } 
+      else {
         const filterCities = {};
         this.indexList.forEach(key => {
           const itemList = this.cities[key];
           filterCities[key] = itemList.filter(
-            // ({ name }) => name.indexOf(val) !== -1
-            item1 => {
-              return JSON.stringify(item1).indexOf(val) !== -1;
-            }
+            ({ name }) => name.indexOf(val) !== -1
           );
         });
+        
         this.filterCities = filterCities;
       }
     }
+
+    // value() {
+    //   if (this.value === "") {
+    //     this.msg = [];
+    //   } else {
+    //     this.msg = this.boox.filter(item1 => {
+    //       // return item.includes(value) === true
+    //       return JSON.stringify(item1).indexOf(this.value) !== -1;
+    //     });
+    //   }
+    // }
   },
   computed: {
     city() {

@@ -257,7 +257,7 @@ export default {
   flex: 4;
 }
 .city {
-  flex: 1.4;
+  flex: 2;
   padding: 10px;
   font-size: 3.733vw;
 }

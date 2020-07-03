@@ -7,7 +7,7 @@
     </div>
 
     <!-- 商品轮播图 -->
-    <div class="imgAll" @click="Preview">
+    <div class="imgAll">
       <van-swipe :autoplay="3000">
         <van-swipe-item>
           <img v-lazy="goodsOne.image" class="img" />
@@ -131,7 +131,7 @@
       <!-- <van-cell is-link></van-cell> -->
       <van-popup v-model="show" closeable round position="bottom" :style="{ height: '43%' }">
         <div class="popupTitle">
-          <div  @click="Preview">
+          <div>
             <img :src="goodsOne.image_path" alt class="image_path" />
           </div>
           <!-- 弹框内商品的名称和价格 -->
@@ -160,7 +160,6 @@
 
 <script>
 import { Toast } from "vant";
-import { ImagePreview } from 'vant';
 export default {
   name: "",
   props: {},
@@ -176,18 +175,10 @@ export default {
       isCollection: "",
       user: null,
       comment: [],
-      rate: "",
-      
+      rate: ""
     };
   },
   methods: {
-    //点击商品图片预览
-    Preview(){
-      ImagePreview([
-  this.goodsOne.image,
-  this.goodsOne.image,
-]);
-    },
     goback() {
       this.$router.go(-1);
     },

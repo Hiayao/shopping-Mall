@@ -7,7 +7,7 @@
     </div>
 
     <!-- 商品轮播图 -->
-    <div class="imgAll" @click="Preview">
+    <div class="imgAll" @click="ooo">
       <van-swipe :autoplay="3000">
         <van-swipe-item>
           <img v-lazy="goodsOne.image" class="img" />
@@ -131,7 +131,7 @@
       <!-- <van-cell is-link></van-cell> -->
       <van-popup v-model="show" closeable round position="bottom" :style="{ height: '43%' }">
         <div class="popupTitle">
-          <div  @click="Preview">
+          <div>
             <img :src="goodsOne.image_path" alt class="image_path" />
           </div>
           <!-- 弹框内商品的名称和价格 -->
@@ -181,11 +181,10 @@ export default {
     };
   },
   methods: {
-    //点击商品图片预览
-    Preview(){
+    ooo(){
       ImagePreview([
-  this.goodsOne.image,
-  this.goodsOne.image,
+  'https://img.yzcdn.cn/vant/apple-1.jpg',
+  'https://img.yzcdn.cn/vant/apple-2.jpg',
 ]);
     },
     goback() {
